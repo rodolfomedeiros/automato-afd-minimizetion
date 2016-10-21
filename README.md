@@ -1,3 +1,5 @@
+# Trabalho para a disciplina: Métodos Formais e Autômatos(2015.2)
+
 # automato-afd-minimizetion
 Leitor de automatos ADF + Minimização
 
