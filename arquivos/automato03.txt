@@ -1,0 +1,21 @@
+//estados
+s0,s1,s2,s3,s4,s5
+//estado inicial
+s0
+//alfabeto
+a,b
+//estados finais
+s3,s4,s5
+//transicoes
+s0,a=s1
+s0,b=s2
+s5,a=s3
+s5,b=s5
+s1,a=s4
+s1,b=s3
+s2,a=s3
+s2,b=s1
+s3,a=s4
+s3,b=s5
+s4,a=s5
+s4,b=s1
