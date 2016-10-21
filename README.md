@@ -2,4 +2,4 @@
 Leitor de automatos ADF + Minimização
 
 # Bibliotecas Utilizadas
- - > Jgraph
+ - Jgraph
